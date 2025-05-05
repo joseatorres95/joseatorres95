@@ -9,11 +9,6 @@
 
 🔧 My focus is writing clean, scalable code and delivering production-ready applications with a strong UI/UX foundation.
 
-🛠️ I'm currently contributing to:
-- React-based admin dashboards
-- Stripe-integrated payment systems
-- API-driven SaaS platforms
-
 📍 Based in Irving, Texas – open to remote work.
 
 📬 Let’s build something amazing.  
